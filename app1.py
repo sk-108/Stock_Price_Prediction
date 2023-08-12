@@ -1,3 +1,4 @@
+import _tkinter
 from turtle import heading, left
 import pandas as pd
 import numpy as np
